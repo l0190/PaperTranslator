@@ -1,0 +1,9 @@
+.ruff_cache
+.zcode
+.pi
+
+docs
+tmp
+work
+Clippings
+CLAUDE.md
